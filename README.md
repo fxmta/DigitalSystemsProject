@@ -2,7 +2,7 @@
 
 ** Image Processing Based Fruit Classification **
 
-## A coding software system to check whether a fruit is ripe or unripe with a given precentage. 
+<sub> A coding software system to check whether a fruit is ripe or unripe with a given precentage. </sub>
 
 
 ### Student name : Fatima Alshasrhani 
