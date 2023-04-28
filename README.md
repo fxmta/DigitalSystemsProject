@@ -1,13 +1,15 @@
 # DigitalSystemsProject
 
-** Image Processing Based Fruit Classification **
+**Image Processing Based Fruit Classification**
 
 <sub> A coding software system to check whether a fruit is ripe or unripe with a given precentage. </sub>
 
 
-### Student name : Fatima Alshasrhani 
+<sup> 
+ Student name : Fatima Alshasrhani 
 
-### Student ID: 19045566 
+ Student ID: 19045566  
+</sup>
 
 
 
